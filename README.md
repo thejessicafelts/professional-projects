@@ -2,7 +2,7 @@
 A list of professional work I've completed.
 
 ## Organic
-##### 2017 ##### Present
+##### 2017 - Present
 
 Front-End Developer, contracted for work on projects for Wells Fargo.
 
@@ -38,7 +38,7 @@ Worked as a Software Developer, specializing in PHP and WordPress development, w
 Primary front-end developer for this site, which included a custom WordPress theme, and plugin. Site features multiple Custom Post Types, and Taxonomies, and was built entire from the ground up. External plugins included Advanced Custom Fields, which assists in the creation and layout of new Custom Post Types.
 
 ## Lyons Consulting Group
-##### 2014 ##### 2016
+##### 2014 - 2016
 
 Completed an internship with LYONSCG, where I worked with a variety of high-end eCommerce clients, using the Demandware platform. In this position, I was fortunate enough to work on Content Management, through the Demandware Business Manager; as well as work on Front-End Development tasks; design-oriented tasks, using the Adobe Creative Suite; and administrative tasks including compiling technical documentation, formatting it to best fit the current LYONSCG branding.
 
@@ -78,7 +78,7 @@ Beginning in January 2015, I was periodically tasked with converting developer n
 ** Mobile Website Layout: ** Assisted a member of our team in creating the mobile website layout for Dogeared's website. The work included creating a slide out navigation menu as well as a drop down search bar.
 
 ## Freelance Consulting
-##### 2016 ##### Present
+##### 2016 - Present
 
 Aimed to help Small Business Owners and Professional Individuals create and maintain a strong and effective presence online. Services included digital strategy, website development, content creation and brand management, as well as a host of creative services, and the development and management of webinars and online courses.
 
