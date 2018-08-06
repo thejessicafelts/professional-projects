@@ -1,6 +1,8 @@
 # Professional Projects
 A list of professional work I've completed.
 
+---
+
 ## Organic
 ##### 2017 - Present
 
@@ -26,6 +28,7 @@ Assisted in development and content updates for this site.
 #### **[Wells Fargo | Deposits](https://welcome.wf.com/checking/)**
 Assisted in content updates for this site.
 
+---
 
 ## iwerk
 ##### 2017
@@ -36,6 +39,8 @@ Worked as a Software Developer, specializing in PHP and WordPress development, w
 
 #### **[Jack Morton | Orange Grove](https://orangegrove.jackmorton.com)**
 Primary front-end developer for this site, which included a custom WordPress theme, and plugin. Site features multiple Custom Post Types, and Taxonomies, and was built entire from the ground up. External plugins included Advanced Custom Fields, which assists in the creation and layout of new Custom Post Types.
+
+---
 
 ## Lyons Consulting Group
 ##### 2014 - 2016
@@ -76,6 +81,8 @@ Beginning in January 2015, I was periodically tasked with converting developer n
 
 #### **[Dogeared](https://www.dogeared.com/)**
 **Mobile Website Layout:** Assisted a member of our team in creating the mobile website layout for Dogeared's website. The work included creating a slide out navigation menu as well as a drop down search bar.
+
+---
 
 ## Freelance Consulting
 ##### 2016 - Present
