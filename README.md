@@ -48,34 +48,34 @@ Completed an internship with LYONSCG, where I worked with a variety of high-end 
 Beginning in January 2015, I was periodically tasked with converting developer notes into ascetically pleasing and properly branded technical documents to send to our clients.
 
 ##### [Fresh](https://www.fresh.com/)
-** Mother's Day Showcase: ** Worked on development for the special Mother's Day 2015 showcase, on Fresh's website. The showcase featured 11 mothers, as well as the company's co-founder. Each mother who was chosen resides close to a brick-and-mortar Fresh store. Each mother had her own page, which included an interview and listed places where she might go for brunch, shopping, to the spa, etc. During this project, I helped set up the content on Demandware's Business Manager. [View the Mother's Day Showcase](http://www.fresh.com/MothersDayMoments.html).
+**Mother's Day Showcase:** Worked on development for the special Mother's Day 2015 showcase, on Fresh's website. The showcase featured 11 mothers, as well as the company's co-founder. Each mother who was chosen resides close to a brick-and-mortar Fresh store. Each mother had her own page, which included an interview and listed places where she might go for brunch, shopping, to the spa, etc. During this project, I helped set up the content on Demandware's Business Manager. [View the Mother's Day Showcase](http://www.fresh.com/MothersDayMoments.html).
 
-** Product Discovery Quiz: ** Worked on the Fresh Mask Finder Quiz for Fresh's website, for multiple locations, including: US, UK, Singapore, Hong Kong, China and South Korea. For the US, I imported questions, and their answer combinations, based upon a spreadsheet provided to us by Fresh. Also uploaded content, and did preliminary QA to make sure everything was working properly and showing up as it should. For international sites, I imported the US content, and changed it as necessary to fit the requirements of the specific country (some things included, changing the results of the quiz, and translating pages from English to Mandarin for Hong Kong and China and to Korean for South Korea). [View the Mask Finder Quiz](https://www.fresh.com/US/mask-finder/).
+**Product Discovery Quiz:** Worked on the Fresh Mask Finder Quiz for Fresh's website, for multiple locations, including: US, UK, Singapore, Hong Kong, China and South Korea. For the US, I imported questions, and their answer combinations, based upon a spreadsheet provided to us by Fresh. Also uploaded content, and did preliminary QA to make sure everything was working properly and showing up as it should. For international sites, I imported the US content, and changed it as necessary to fit the requirements of the specific country (some things included, changing the results of the quiz, and translating pages from English to Mandarin for Hong Kong and China and to Korean for South Korea). [View the Mask Finder Quiz](https://www.fresh.com/US/mask-finder/).
 
-** Holiday Showcase: ** Worked on the Homepage Spread for Fresh's website, for the 2015 Holiday Season.
+**Holiday Showcase:** Worked on the Homepage Spread for Fresh's website, for the 2015 Holiday Season.
 
 ##### [Johnathan Adler](https://www.jonathanadler.com/)
-** Homepage Updates: ** Regularly updated content on Client Johnathan Adler's website. This includes updating the homepage roughly every two weeks and updating the banners and beauty bars in the site's main navigation.
+**Homepage Updates:** Regularly updated content on Client Johnathan Adler's website. This includes updating the homepage roughly every two weeks and updating the banners and beauty bars in the site's main navigation.
 
-** Careers Page: ** Constantly updated the Career's page of Johnathan Adler's website. These changes were entirely done in HTML and uploaded into Demandware's Business Manager. [View the Careers Page](https://www.jonathanadler.com/careers.html).
+**Careers Page:** Constantly updated the Career's page of Johnathan Adler's website. These changes were entirely done in HTML and uploaded into Demandware's Business Manager. [View the Careers Page](https://www.jonathanadler.com/careers.html).
 
 ##### [Hot Topic | Box Lunch](https://www.boxlunch.com/)
-** Site Styling: ** Worked with the Hot Topic child brand Box Lunch, before launch, creating CSS stylesheets for the site, determined by the styling presented in mock-ups provided by the client. [Visit the Site](https://www.boxlunch.com/homepage).
+**Site Styling:** Worked with the Hot Topic child brand Box Lunch, before launch, creating CSS stylesheets for the site, determined by the styling presented in mock-ups provided by the client. [Visit the Site](https://www.boxlunch.com/homepage).
 
 ##### [Tourneau](http://www.tourneau.com/)
-** Tool Tip Development and Implementation: ** Developed a Tool Tip with JavaScript / jQuery, which allowed users to learn more information about Tourneau Used Watches, including definitions for things like the watch's condition. [View a Pre-Owned Watch](http://www.tourneau.com/watches/pre-owned-panerai/radiomir-tourbillon-gmt-platinum-manual-pam00316-PAN6600216.html).
+**Tool Tip Development and Implementation:** Developed a Tool Tip with JavaScript / jQuery, which allowed users to learn more information about Tourneau Used Watches, including definitions for things like the watch's condition. [View a Pre-Owned Watch](http://www.tourneau.com/watches/pre-owned-panerai/radiomir-tourbillon-gmt-platinum-manual-pam00316-PAN6600216.html).
 
 ##### [Henri Bendel](https://www.henribendel.com/)
-** Summer 2015 Mailer: ** Was a member of the group which created the Summer 2015 digital mailer for Henri Bendel's website. Work that I contributed included creating image maps around pages given to us, so that I could appropriately link what was shown on the page, to the item's specific product page, simply by having the user click the product they were interested in, right in the mailer.
+**Summer 2015 Mailer:** Was a member of the group which created the Summer 2015 digital mailer for Henri Bendel's website. Work that I contributed included creating image maps around pages given to us, so that I could appropriately link what was shown on the page, to the item's specific product page, simply by having the user click the product they were interested in, right in the mailer.
 
 ##### [Mattress Firm](https://www.mattressfirm.com/)
-** Website Platform Change: ** Switching the Mattress Firm website to the Demandware platform. Gathering content from the existing site, properly styling and formatting it, and placing it into a Content Slot in Demandware's Business Manager.
+**Website Platform Change:** Switching the Mattress Firm website to the Demandware platform. Gathering content from the existing site, properly styling and formatting it, and placing it into a Content Slot in Demandware's Business Manager.
 
 ##### [Guthy Renker | Meaningful Beauty](https://www.meaningfulbeauty.com/)
-** URL Redirects: ** Worked with the Guthy Renker child brand Meaningful Beauty, to setup various permanent URL redirects on the Meaningful Beauty website. These enabled Meaningful Beauty's website to go from having lengthy, unsightly URLs to short, descriptive URLs to make the site more navigable for customers.
+**URL Redirects:** Worked with the Guthy Renker child brand Meaningful Beauty, to setup various permanent URL redirects on the Meaningful Beauty website. These enabled Meaningful Beauty's website to go from having lengthy, unsightly URLs to short, descriptive URLs to make the site more navigable for customers.
 
 ##### [Dogeared](https://www.dogeared.com/)
-** Mobile Website Layout: ** Assisted a member of our team in creating the mobile website layout for Dogeared's website. The work included creating a slide out navigation menu as well as a drop down search bar.
+**Mobile Website Layout:** Assisted a member of our team in creating the mobile website layout for Dogeared's website. The work included creating a slide out navigation menu as well as a drop down search bar.
 
 ## Freelance Consulting
 ##### 2016 - Present
