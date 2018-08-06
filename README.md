@@ -8,22 +8,22 @@ Front-End Developer, contracted for work on projects for Wells Fargo.
 
 ### Projects -
 
-##### [Wells Fargo | Tech Banking](https://welcome.wf.com/tech-banking/)
+#### **[Wells Fargo | Tech Banking](https://welcome.wf.com/tech-banking/)**
 Primary developer for new features, and content updates.
 
-##### [Wells Fargo | Home Mortgage](https://welcome.wf.com/home-mortgage/)
+#### **[Wells Fargo | Home Mortgage](https://welcome.wf.com/home-mortgage/)**
 Primary developer for this site.
 
-##### [Wells Fargo | Manage Your Cash Flow](https://welcome.wf.com/cashflow/)
+#### **[Wells Fargo | Manage Your Cash Flow](https://welcome.wf.com/cashflow/)**
 Primary developer for this site.
 
-##### [Wells Fargo | Savings Rate](https://welcome.wf.com/savingsrate/)
+#### **[Wells Fargo | Savings Rate](https://welcome.wf.com/savingsrate/)**
 Primary developer for this site when, first launched.
 
-##### [Wells Fargo | Re-Established](https://welcome.wf.com/renew/)
+#### **[Wells Fargo | Re-Established](https://welcome.wf.com/renew/)**
 Assisted in development and content updates for this site.
 
-##### [Wells Fargo | Deposits](https://welcome.wf.com/checking/)
+#### **[Wells Fargo | Deposits](https://welcome.wf.com/checking/)**
 Assisted in content updates for this site.
 
 
@@ -34,7 +34,7 @@ Worked as a Software Developer, specializing in PHP and WordPress development, w
 
 ### Projects -
 
-##### [Jack Morton | Orange Grove](https://orangegrove.jackmorton.com)
+#### **[Jack Morton | Orange Grove](https://orangegrove.jackmorton.com)**
 Primary front-end developer for this site, which included a custom WordPress theme, and plugin. Site features multiple Custom Post Types, and Taxonomies, and was built entire from the ground up. External plugins included Advanced Custom Fields, which assists in the creation and layout of new Custom Post Types.
 
 ## Lyons Consulting Group
@@ -44,37 +44,37 @@ Completed an internship with LYONSCG, where I worked with a variety of high-end 
 
 ### Projects -
 
-##### [LYONSCG | Technical Documentation](https://www.lyonscg.com/)
+#### **[LYONSCG | Technical Documentation](https://www.lyonscg.com/)**
 Beginning in January 2015, I was periodically tasked with converting developer notes into ascetically pleasing and properly branded technical documents to send to our clients.
 
-##### [Fresh](https://www.fresh.com/)
+#### **[Fresh](https://www.fresh.com/)**
 **Mother's Day Showcase:** Worked on development for the special Mother's Day 2015 showcase, on Fresh's website. The showcase featured 11 mothers, as well as the company's co-founder. Each mother who was chosen resides close to a brick-and-mortar Fresh store. Each mother had her own page, which included an interview and listed places where she might go for brunch, shopping, to the spa, etc. During this project, I helped set up the content on Demandware's Business Manager. [View the Mother's Day Showcase](http://www.fresh.com/MothersDayMoments.html).
 
 **Product Discovery Quiz:** Worked on the Fresh Mask Finder Quiz for Fresh's website, for multiple locations, including: US, UK, Singapore, Hong Kong, China and South Korea. For the US, I imported questions, and their answer combinations, based upon a spreadsheet provided to us by Fresh. Also uploaded content, and did preliminary QA to make sure everything was working properly and showing up as it should. For international sites, I imported the US content, and changed it as necessary to fit the requirements of the specific country (some things included, changing the results of the quiz, and translating pages from English to Mandarin for Hong Kong and China and to Korean for South Korea). [View the Mask Finder Quiz](https://www.fresh.com/US/mask-finder/).
 
 **Holiday Showcase:** Worked on the Homepage Spread for Fresh's website, for the 2015 Holiday Season.
 
-##### [Johnathan Adler](https://www.jonathanadler.com/)
+#### **[Johnathan Adler](https://www.jonathanadler.com/)**
 **Homepage Updates:** Regularly updated content on Client Johnathan Adler's website. This includes updating the homepage roughly every two weeks and updating the banners and beauty bars in the site's main navigation.
 
 **Careers Page:** Constantly updated the Career's page of Johnathan Adler's website. These changes were entirely done in HTML and uploaded into Demandware's Business Manager. [View the Careers Page](https://www.jonathanadler.com/careers.html).
 
-##### [Hot Topic | Box Lunch](https://www.boxlunch.com/)
+#### **[Hot Topic | Box Lunch](https://www.boxlunch.com/)**
 **Site Styling:** Worked with the Hot Topic child brand Box Lunch, before launch, creating CSS stylesheets for the site, determined by the styling presented in mock-ups provided by the client. [Visit the Site](https://www.boxlunch.com/homepage).
 
-##### [Tourneau](http://www.tourneau.com/)
+#### **[Tourneau](http://www.tourneau.com/)**
 **Tool Tip Development and Implementation:** Developed a Tool Tip with JavaScript / jQuery, which allowed users to learn more information about Tourneau Used Watches, including definitions for things like the watch's condition. [View a Pre-Owned Watch](http://www.tourneau.com/watches/pre-owned-panerai/radiomir-tourbillon-gmt-platinum-manual-pam00316-PAN6600216.html).
 
-##### [Henri Bendel](https://www.henribendel.com/)
+#### **[Henri Bendel](https://www.henribendel.com/)**
 **Summer 2015 Mailer:** Was a member of the group which created the Summer 2015 digital mailer for Henri Bendel's website. Work that I contributed included creating image maps around pages given to us, so that I could appropriately link what was shown on the page, to the item's specific product page, simply by having the user click the product they were interested in, right in the mailer.
 
-##### [Mattress Firm](https://www.mattressfirm.com/)
+#### **[Mattress Firm](https://www.mattressfirm.com/)**
 **Website Platform Change:** Switching the Mattress Firm website to the Demandware platform. Gathering content from the existing site, properly styling and formatting it, and placing it into a Content Slot in Demandware's Business Manager.
 
-##### [Guthy Renker | Meaningful Beauty](https://www.meaningfulbeauty.com/)
+#### **[Guthy Renker | Meaningful Beauty](https://www.meaningfulbeauty.com/)**
 **URL Redirects:** Worked with the Guthy Renker child brand Meaningful Beauty, to setup various permanent URL redirects on the Meaningful Beauty website. These enabled Meaningful Beauty's website to go from having lengthy, unsightly URLs to short, descriptive URLs to make the site more navigable for customers.
 
-##### [Dogeared](https://www.dogeared.com/)
+#### **[Dogeared](https://www.dogeared.com/)**
 **Mobile Website Layout:** Assisted a member of our team in creating the mobile website layout for Dogeared's website. The work included creating a slide out navigation menu as well as a drop down search bar.
 
 ## Freelance Consulting
@@ -84,14 +84,14 @@ Aimed to help Small Business Owners and Professional Individuals create and main
 
 ### Projects -
 
-##### Susan McGraw | Project Managment
+#### **Susan McGraw | Project Managment**
 Working with Susan McGraw (Founder and CEO of Career Success for Women and Youth), to help her develop and deploy a webinar series for women looking to make a change in their career. A free webinar will premiere in October 2016 with a paid webinar to follow.
 
-##### Deana Colman | Webinar Design
+#### **Deana Colman | Webinar Design**
 Worked with Transformational Coach and Life Strategist Deana Colman to design a slide deck for her upcoming webinar: "The Three Biggest Mistakes 'Successful' Women Entrepreneurs are Still Making: Discover the Painful Mistakes You're Likely Making That Are Costing You More Pleasure, Profits, and Time Off ##### And What To Do Instead".
 
-##### [DigiWalls Media | Content Creation](https://www.digiwallsmedia.com/)
+#### **[DigiWalls Media | Content Creation](https://www.digiwallsmedia.com/)**
 Worked with Digiwalls Media, of Portugal, to craft original content in the form of descriptions for 60 free-to-play online video games, to be placed into an online database! The content totaled over 19,000 words and averaged 317 words per game description.
 
-##### Lizzy Vance | Webinar Deployment
+#### **Lizzy Vance | Webinar Deployment**
 Worked with Award Winning Ghost Writer Lizzy Vance, to assist her in the deployment of the pilot webinar for her upcoming webinar series on how to make it in the publication industry. Also acted as a Virtual Personal Assistant on additional tasks, as needed.
