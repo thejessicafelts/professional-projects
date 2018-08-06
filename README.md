@@ -97,7 +97,7 @@ Working with Susan McGraw (Founder and CEO of Career Success for Women and Youth
 ### **Deana Colman | Webinar Design**
 Worked with Transformational Coach and Life Strategist Deana Colman to design a slide deck for her upcoming webinar: "The Three Biggest Mistakes 'Successful' Women Entrepreneurs are Still Making: Discover the Painful Mistakes You're Likely Making That Are Costing You More Pleasure, Profits, and Time Off - And What To Do Instead".
 
-### **[DigiWalls Media | Content Creation](http://digiwallsmedia.com/){:target="_blank"}**
+### **[DigiWalls Media | Content Creation](http://digiwallsmedia.com/)**
 Worked with Digiwalls Media, of Portugal, to craft original content in the form of descriptions for 60 free-to-play online video games, to be placed into an online database! The content totaled over 19,000 words and averaged 317 words per game description.
 
 ### **Lizzy Vance | Webinar Deployment**
