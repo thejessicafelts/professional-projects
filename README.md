@@ -3,8 +3,23 @@ A list of professional work I've completed.
 
 ---
 
-## Organic
-##### 2017 - Present
+## [United Shore](http://www.unitedshore.com), [United Wholesale Mortgage](http://www.uwm.com/)
+##### 2018 - Present
+
+UI Developer, dedicated to the Salesforce team, implementing custom Salesforce solutions.
+
+### Projects -
+
+### **[United Whoelsale Mortgage | Client Request](https://www.uwm.com/price-a-loan/exclusives-in/client-request-in)**
+Primary Salesforce UI Developer for this project.
+
+### **[United Wholesale Mortgage | Success Track Registration](https://ask.uwm.com/s/success-track)**
+Primary Salesforce UI Developer for this project.
+
+---
+
+## [Organic](http://www.organic.com)
+##### 2017 - 2018
 
 Front-End Developer, contracted for work on projects for Wells Fargo.
 
@@ -30,7 +45,7 @@ Assisted in content updates for this site.
 
 ---
 
-## iwerk
+## [iwerk](http://www.iwerk.com/)
 ##### 2017
 
 Worked as a Software Developer, specializing in PHP and WordPress development, where I was able to develop the front-end experience of the custom intranet "Orange Grove" for global ad agency Jack Morton. I also spearheaded an internal brand audit, and was a leader of the Internal Marketing Committee.
@@ -42,7 +57,7 @@ Primary front-end developer for this site, which included a custom WordPress the
 
 ---
 
-## Lyons Consulting Group
+## [Lyons Consulting Group](http://www.lyonscg.com/) (now [Capgemini North America](https://www.capgemini.com/))
 ##### 2014 - 2016
 
 Completed an internship with LYONSCG, where I worked with a variety of high-end eCommerce clients, using the Demandware platform. In this position, I was fortunate enough to work on Content Management, through the Demandware Business Manager; as well as work on Front-End Development tasks; design-oriented tasks, using the Adobe Creative Suite; and administrative tasks including compiling technical documentation, formatting it to best fit the current LYONSCG branding.
@@ -91,7 +106,7 @@ Aimed to help Small Business Owners and Professional Individuals create and main
 
 ### Projects -
 
-### **Susan McGraw | Project Managment**
+### **[Susan McGraw](https://www.careersuccesswomenyouth.com/) | Project Managment**
 Working with Susan McGraw (Founder and CEO of Career Success for Women and Youth), to help her develop and deploy a webinar series for women looking to make a change in their career. A free webinar will premiere in October 2016 with a paid webinar to follow.
 
 ### **Deana Colman | Webinar Design**
