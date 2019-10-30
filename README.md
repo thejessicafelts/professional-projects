@@ -12,7 +12,7 @@ UI Developer, dedicated to the Salesforce team, implementing custom Salesforce s
 
 ### Projects -
 
-### **[United Wholesale Mortgage | Brand360 - Client Connect](https://www.uwm.com/grow-your-business/more-marketing-tools)**
+### **[United Wholesale Mortgage | Brand360 - Client Connect](https://www.uwm.com/grow-your-business/client-connect)**
 Salesforce UI Developer for this project.
 
 ### **[United Whoelsale Mortgage | Client Request](https://www.uwm.com/price-a-loan/exclusives-in/client-request-in)**
