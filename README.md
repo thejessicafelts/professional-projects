@@ -5,8 +5,8 @@ A list of professional work I've completed.
 
 ---
 
-## [United Shore](http://www.unitedshore.com), [United Wholesale Mortgage](http://www.uwm.com/)
-##### 2018 - Present
+## [United Wholesale Mortgage](http://www.uwm.com/) ([$UWMC](https://www.marketwatch.com/investing/stock/uwmc))
+##### 2018 - 2020
 
 UI Developer, dedicated to the Salesforce team, implementing custom Salesforce solutions.
 
