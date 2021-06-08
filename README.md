@@ -84,8 +84,8 @@ Beginning in January 2015, I was periodically tasked with converting developer n
 
 **Careers Page:** Constantly updated the Career's page of Johnathan Adler's website. These changes were entirely done in HTML and uploaded into Demandware's Business Manager. [View the Careers Page](https://www.jonathanadler.com/careers.html).
 
-### **[Hot Topic | Box Lunch](https://www.boxlunch.com/)**
-**Site Styling:** Worked with the Hot Topic child brand Box Lunch, before launch, creating CSS stylesheets for the site, determined by the styling presented in mock-ups provided by the client. [Visit the Site](https://www.boxlunch.com/homepage).
+### **[Hot Topic](https://www.hottopic.com/) | [Box Lunch](https://www.boxlunch.com/)**
+**Site Implementation:** Launched the Hot Topic child site Box Lunch on the Demandware (now Salesforce Commerce Cloud) Platform. [Visit the Site](https://www.boxlunch.com/homepage).
 
 ### **[Tourneau](http://www.tourneau.com/)**
 **Tool Tip Implementation:** Developed a JavaScript Tool Tip, which allowed users to learn more information about Tourneau Used Watches, including definitions for things like the watch's condition. [View a Pre-Owned Watch](http://www.tourneau.com/watches/pre-owned-panerai/radiomir-tourbillon-gmt-platinum-manual-pam00316-PAN6600216.html).
