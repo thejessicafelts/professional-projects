@@ -112,7 +112,7 @@ Aimed to help Small Business Owners and Professional Individuals create and main
 ### Projects -
 
 ### **[Susan McGraw](https://www.careersuccesswomenyouth.com/) | Project Managment**
-Working with Susan McGraw (Founder and CEO of Career Success for Women and Youth), to help her develop and deploy a webinar series for women looking to make a change in their career. A free webinar will premiere in October 2016 with a paid webinar to follow.
+Worked with Susan McGraw (Founder and CEO of Career Success for Women and Youth), to help her develop and deploy a webinar series for women looking to make a change in their career: "6 Steps to a Job You Love!" (Free Webinar and Paid Master Class).
 
 ### **Deana Colman | Webinar Design**
 Worked with Transformational Coach and Life Strategist Deana Colman to design a slide deck for her upcoming webinar: "The Three Biggest Mistakes 'Successful' Women Entrepreneurs are Still Making: Discover the Painful Mistakes You're Likely Making That Are Costing You More Pleasure, Profits, and Time Off - And What To Do Instead".
