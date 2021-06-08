@@ -120,5 +120,5 @@ Worked with Transformational Coach and Life Strategist Deana Colman to design a 
 ### **[DigiWalls Media](http://digiwallsmedia.com/) | Content Creation**
 Worked with Digiwalls Media, of Portugal, to craft original content in the form of descriptions for 60 free-to-play online video games, to be placed into an online database! The content totaled over 19,000 words and averaged 317 words per game description.
 
-### **Lizzy Vance | Webinar Deployment**
-Worked with Award Winning Ghost Writer Lizzy Vance, to assist her in the deployment of the pilot webinar for her upcoming webinar series on how to make it in the publication industry. Also acted as a Virtual Personal Assistant on additional tasks, as needed.
+### **[Lizzie Vance](http://www.lizzievance.com/) | Webinar Deployment**
+Worked with "Celebrity Book Midwife" Lizzie Vance, to assist her in the deployment of the pilot webinar for her upcoming webinar series on how to make it in the publication industry. Also acted as a Virtual Personal Assistant on additional tasks, as needed.
