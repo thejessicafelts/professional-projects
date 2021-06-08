@@ -96,8 +96,8 @@ Beginning in January 2015, I was periodically tasked with converting developer n
 ### **[Mattress Firm](https://www.mattressfirm.com/)**
 **Website Platform Change:** Switching the Mattress Firm website to the Demandware platform. Gathering content from the existing site, properly styling and formatting it, and placing it into a Content Slot in Demandware's Business Manager.
 
-### **[Guthy Renker | Meaningful Beauty](https://www.meaningfulbeauty.com/)**
-**URL Redirects:** Worked with the Guthy Renker child brand Meaningful Beauty, to setup various permanent URL redirects on the Meaningful Beauty website. These enabled Meaningful Beauty's website to go from having lengthy, unsightly URLs to short, descriptive URLs to make the site more navigable for customers.
+### **[Guthy Renker](https://www.guthy-renker.com) | [Meaningful Beauty](https://www.meaningfulbeauty.com/)**
+**URL Redirects:** Worked with the Guthy Renker child brand Meaningful Beauty, to setup various permanent URL redirects on the Meaningful Beauty website. These enabled Meaningful Beauty's website to go from having lengthy, unsightly URLs, to short, descriptive URLs to make the site more navigable for consumers.
 
 ### **[Dogeared](https://www.dogeared.com/)**
 **Mobile Website Layout:** Served as a member of the team responsible for creating the mobile and responsive website layouts for Dogeared's website. The work included creating a slide out navigation menu, as well as a drop down search bar.
