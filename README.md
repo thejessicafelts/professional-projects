@@ -91,7 +91,7 @@ Beginning in January 2015, I was periodically tasked with converting developer n
 **Tool Tip Development and Implementation:** Developed a Tool Tip with JavaScript / jQuery, which allowed users to learn more information about Tourneau Used Watches, including definitions for things like the watch's condition. [View a Pre-Owned Watch](http://www.tourneau.com/watches/pre-owned-panerai/radiomir-tourbillon-gmt-platinum-manual-pam00316-PAN6600216.html).
 
 ### **[Henri Bendel](https://www.henribendel.com/)**
-**Summer 2015 Mailer:** Was a member of the group which created the Summer 2015 digital mailer for Henri Bendel's website. Work that I contributed included creating image maps around pages given to us, so that I could appropriately link what was shown on the page, to the item's specific product page, simply by having the user click the product they were interested in, right in the mailer.
+**Summer 2015 Digital Mailer:** Served as a member of the team responsible for creating the Summer 2015 Digital Mailer for Henri Bendel's website. Work included creating image maps around pages given to us, so that appropriate PDP links could be provided for what was shown on the page, and the user could simply click the product they were interested in, right in the mailer.
 
 ### **[Mattress Firm](https://www.mattressfirm.com/)**
 **Website Platform Change:** Switching the Mattress Firm website to the Demandware platform (Now Salesforce Commerce Cloud). Work included gathering content from the existing site, properly styling and formatting it, and placing it into a Content Slot in Demandware's Business Manager.
