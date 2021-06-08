@@ -88,7 +88,7 @@ Beginning in January 2015, I was periodically tasked with converting developer n
 **Site Styling:** Worked with the Hot Topic child brand Box Lunch, before launch, creating CSS stylesheets for the site, determined by the styling presented in mock-ups provided by the client. [Visit the Site](https://www.boxlunch.com/homepage).
 
 ### **[Tourneau](http://www.tourneau.com/)**
-**Tool Tip Development and Implementation:** Developed a Tool Tip with JavaScript / jQuery, which allowed users to learn more information about Tourneau Used Watches, including definitions for things like the watch's condition. [View a Pre-Owned Watch](http://www.tourneau.com/watches/pre-owned-panerai/radiomir-tourbillon-gmt-platinum-manual-pam00316-PAN6600216.html).
+**Tool Tip Implementation:** Developed a JavaScript Tool Tip, which allowed users to learn more information about Tourneau Used Watches, including definitions for things like the watch's condition. [View a Pre-Owned Watch](http://www.tourneau.com/watches/pre-owned-panerai/radiomir-tourbillon-gmt-platinum-manual-pam00316-PAN6600216.html).
 
 ### **[Henri Bendel](https://www.henribendel.com/)**
 **Summer 2015 Digital Mailer:** Served as a member of the team responsible for creating the Summer 2015 Digital Mailer for Henri Bendel's website. Work included creating image maps around pages given to us, so that appropriate PDP links could be provided for what was shown on the page, and the user could simply click the product they were interested in, right in the mailer.
