@@ -69,8 +69,8 @@ Completed an internship with LYONSCG, where I worked with a variety of high-end 
 
 ### Projects -
 
-### **[LYONSCG | Technical Documentation](https://www.lyonscg.com/)**
-Beginning in January 2015, I was periodically tasked with converting developer notes into ascetically pleasing and properly branded technical documents to send to our clients.
+### **[LYONSCG](https://www.lyonscg.com/) | Technical Documentation**
+Beginning in January 2015, I was periodically tasked with converting developer notes into aesthetically pleasing and properly branded technical documents to send to our clients.
 
 ### **[Fresh](https://www.fresh.com/)**
 **Mother's Day Showcase:** Worked on development for the special Mother's Day 2015 showcase, on Fresh's website. The showcase featured 11 mothers, as well as the company's co-founder. Each mother who was chosen resides close to a brick-and-mortar Fresh store. Each mother had her own page, which included an interview and listed places where she might go for brunch, shopping, to the spa, etc. [View the Mother's Day Showcase](http://www.fresh.com/MothersDayMoments.html).
