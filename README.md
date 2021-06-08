@@ -65,7 +65,7 @@ Primary front-end developer for this site, which included a custom WordPress the
 ## [Lyons Consulting Group](http://www.lyonscg.com/) (now [Capgemini North America](https://www.capgemini.com/))
 ##### 2014 - 2016
 
-Completed an internship with LYONSCG, where I worked with a variety of high-end eCommerce clients, using the Demandware platform. In this position, I was fortunate enough to work on Content Management, through the Demandware Business Manager; as well as work on Front-End Development tasks; design-oriented tasks, using the Adobe Creative Suite; and administrative tasks including compiling technical documentation, formatting it to best fit the current LYONSCG branding.
+Completed an internship with LYONSCG, where I worked with a variety of high-end eCommerce clients, using the Demandware platform (now Salesforce Commerce Cloud). In this position, I was fortunate enough to work on Content Management, through the Demandware Business Manager; as well as work on Front-End Development tasks; design-oriented tasks, using the Adobe Creative Suite; and administrative tasks including compiling technical documentation, formatting it to best fit the current LYONSCG branding.
 
 ### Projects -
 
