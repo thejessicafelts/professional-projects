@@ -80,7 +80,7 @@ Beginning in January 2015, I was periodically tasked with converting developer n
 **Holiday Showcase:** Worked on the Homepage Spread for Fresh's website, for the 2015 Holiday Season.
 
 ### **[Jonathan Adler](https://www.jonathanadler.com/)**
-**Homepage Updates:** Regularly updated content on Client Jonathan Adler's website. This includes updating the homepage roughly every two weeks and updating the banners and beauty bars in the site's main navigation.
+**Homepage Updates:** Regularly updated content on the Jonathan Adler website. This includes updating the homepage roughly every two weeks and updating the banners and beauty bars in the site's main navigation.
 
 **Careers Page:** Constantly updated the Career's page of Johnathan Adler's website. These changes were entirely done in HTML and uploaded into Demandware's Business Manager. [View the Careers Page](https://www.jonathanadler.com/careers.html).
 
