@@ -57,8 +57,15 @@ Worked as a Software Developer, specializing in PHP and WordPress development, w
 
 ### Projects -
 
-### **[Jack Morton | Orange Grove](https://orangegrove.jackmorton.com)**
-Primary front-end developer for this site, which included a custom WordPress theme, and plugin. Site features multiple Custom Post Types, and Taxonomies, and was built entire from the ground up. External plugins included Advanced Custom Fields, which assists in the creation and layout of new Custom Post Types.
+### **[Jack Morton](https://www.jackmorton.com/) | Orange Grove**
+Primary Frontend Developer for this private, internal intranet, which included a custom WordPress theme, and custom plugins. The site featured multiple Custom Post Types, and Taxonomies, and was built entirely from the ground up. External plugins included Advanced Custom Fields, which assists in the creation and layout of new Custom Post Types. (This site was developed prior to the WordPress Gutenberg update.)
+
+### Initiatives -
+
+### ***Internal Marking Committee***
+After performing an initial brand audit, I helped to form and lead the Internal Marketing Committee for our iwerk, specifically focused on ensuring our marketing efforts and branding are all aligned, and that issues such as accessibility were addressed in a timely manner.
+
+**Internal Brand Audit:** After addressing some potential areas of improvement, I was tasked with performing an audit for our entire brand - digital presence as well as print materials, and provide senior leadership with a detailed report of my findings.
 
 ---
 
