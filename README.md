@@ -100,7 +100,7 @@ Beginning in January 2015, I was periodically tasked with converting developer n
 **URL Redirects:** Worked with the Guthy Renker child brand Meaningful Beauty, to setup various permanent URL redirects on the Meaningful Beauty website. These enabled Meaningful Beauty's website to go from having lengthy, unsightly URLs to short, descriptive URLs to make the site more navigable for customers.
 
 ### **[Dogeared](https://www.dogeared.com/)**
-**Mobile Website Layout:** Assisted a member of our team in creating the mobile website layout for Dogeared's website. The work included creating a slide out navigation menu as well as a drop down search bar.
+**Mobile Website Layout:** Served as a member of the team responsible for creating the mobile and responsive website layouts for Dogeared's website. The work included creating a slide out navigation menu, as well as a drop down search bar.
 
 ---
 
