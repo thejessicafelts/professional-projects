@@ -107,7 +107,7 @@ Beginning in January 2015, I was periodically tasked with converting developer n
 ## Freelance Consulting
 ##### 2016 - Present
 
-Aimed to help Small Business Owners and Professional Individuals create and maintain a strong and effective presence online. Services included digital strategy, website development, content creation and brand management, as well as a host of creative services, and the development and management of webinars and online courses...
+Helping Small Business Owners and Professional Individuals create and maintain a strong and effective presence online. Services included digital strategy, website development, content creation and brand management, as well as a host of creative services, and the development and management of webinars and online courses...
 
 ### Projects -
 
