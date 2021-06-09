@@ -7,6 +7,20 @@ A list of professional work I've completed.
 
 ---
 
+## [Red Van Workshop](https://www.redvanworkshop.com/)
+##### 2021
+
+Frontend eCommerce Developer on the Salesforce Commerce Cloud platform.
+
+---
+
+## [Summit Sports, LLC](https://www.summitsports.com/)
+##### 2020 - 2021
+
+Primary Fontend Developer for the eCommerce team. Using Salesforce Commerce Cloud.
+
+---
+
 ## [United Wholesale Mortgage](http://www.uwm.com/) ([$UWMC](https://www.marketwatch.com/investing/stock/uwmc))
 ##### 2018 - 2020
 
