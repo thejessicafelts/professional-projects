@@ -1,6 +1,6 @@
-> Last Updated: **June 08, 2021**
+> Last Updated: **June 08, 2021** | If you're interested in learning more about my professional experience, please visit my [LinkedIn](http://www.linkedin.com/in/thejessicafelts/).
 
-> If you're interested in learning more about my professional experience, please visit my [LinkedIn](http://www.linkedin.com/in/thejessicafelts/).
+---
 
 # Professional Projects
 A list of professional work I've completed.
