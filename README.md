@@ -1,4 +1,4 @@
-> Last Updated: **June 08, 2021** | If you're interested in learning more about my professional experience, please visit my [LinkedIn](http://www.linkedin.com/in/thejessicafelts/).
+> Last Updated: **June 08, 2021**. If you're interested in learning more about my professional experience, please visit my [LinkedIn](http://www.linkedin.com/in/thejessicafelts/).
 
 ---
 
