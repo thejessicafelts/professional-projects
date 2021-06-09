@@ -62,7 +62,7 @@ Primary Frontend Developer for this private, internal intranet, which included a
 
 ### Initiatives -
 
-### ***Internal Marking Committee***
+### **Internal Marking Committee**
 After performing an initial brand audit, I helped to form and lead the Internal Marketing Committee for our iwerk, specifically focused on ensuring our marketing efforts and branding are all aligned, and that issues such as accessibility were addressed in a timely manner.
 
 **Internal Brand Audit:** After addressing some potential areas of improvement, I was tasked with performing an audit for our entire brand - digital presence as well as print materials, and provide senior leadership with a detailed report of my findings.
