@@ -26,27 +26,27 @@ Primary Salesforce UI Developer for this project.
 ## [Organic](http://www.organic.com)
 ##### 2017 - 2018
 
-Front-End Developer, contracted for work on projects for Wells Fargo.
+Worked as a Frontend Developer, privately contracted by Organic to work on various projects for their client, **[Wells Fargo](https://www.wellsfargo.com/)**. Sites were developed using HandlebarsJS, and SCSS.
 
 ### Projects -
 
-### **[Wells Fargo | Tech Banking](https://welcome.wf.com/tech-banking/)**
-Primary developer for new features, and content updates.
+### **Wells Fargo | [Re-Established](https://welcome.wf.com/renew/)**
+During the time I was contracted with Organic to work on Wells Fargo projects, Wells Fargo was going through a process of rebranding, and rebuilding consumer trust. As part of this, they launched a new campaign, complete with this site (as well as a massive marketing effort on TV, radio, and print). This site focused on reintroducing the consumer to Wells Fargo, and worked on regaining trust that may have been lost during their then-recent data breach. This site was multilingual (English and Spanish), and was fully responsive and accessible.
 
-### **[Wells Fargo | Home Mortgage](https://welcome.wf.com/home-mortgage/)**
-Primary developer for this site.
+### **Wells Fargo | [Tech Banking](https://welcome.wf.com/tech-banking/)**
+This site primarily served as a blog for Wells Fargo to keep consumers updated with relevant financial and fintech content. Updates to this site included a new site layout, styling for the posts page, and individual post pages, as well as the addition of multiple infographics, videos, and images. This site was fully responsive and accessible.
 
-### **[Wells Fargo | Manage Your Cash Flow](https://welcome.wf.com/cashflow/)**
-Primary developer for this site.
+### **Wells Fargo | [Home Mortgage](https://welcome.wf.com/home-mortgage/)**
+Developed this microsite dedicated to the education of home buyers, looking to learn more about home mortgages. This site included information about Wells Fargo specifically, as well as more general information about home mortgages. This site was fully responsive, and accessible.
 
-### **[Wells Fargo | Savings Rate](https://welcome.wf.com/savingsrate/)**
-Primary developer for this site when, first launched.
+### **Wells Fargo | [Manage Your Cash Flow](https://welcome.wf.com/cashflow/)**
+Developed this microsite dedicated to the education of borrowers, interested in pursing new consumer loans. This site included information about Wells Fargo specifically, as well as general information about consumer loans. This site was fully responsive and accessible.
 
-### **[Wells Fargo | Re-Established](https://welcome.wf.com/renew/)**
-Assisted in development and content updates for this site.
+### **Wells Fargo | [Savings Rate](https://welcome.wf.com/savingsrate/)**
+Developed this microsite as a promotional tool to inform consumers about special rates for savings accounts, and availability for them depending on area. This site included functionality to gain location-specific (by state, and zipcode) information on current savings rate, and promotional periords. This site was fully responsive and accessible.
 
-### **[Wells Fargo | Deposits](https://welcome.wf.com/checking/)**
-Assisted in content updates for this site.
+### **Wells Fargo | [Deposits](https://welcome.wf.com/checking/)**
+Developed this microsite as a promotional tool to inform consumers about special promotional programs relating to deposit (checking) accounts. This site was fully responsive and accessible.
 
 ---
 
