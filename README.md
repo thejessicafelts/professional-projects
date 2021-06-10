@@ -28,7 +28,7 @@ Sole Frontend Developer, dedicated to the Salesforce team, implementing custom S
 
 ### Projects -
 
-### **[Brand360 - Client Connect](https://www.uwm.com/grow-your-business/client-connect)**
+### **[Brand360](https://www.uwm.com/grow-your-business) | [Client Connect](https://www.uwm.com/grow-your-business/client-connect)**
 Salesforce UI Developer for this project.
 
 ### **[Client Request](https://www.uwm.com/price-a-loan/exclusives-in/client-request-in)**
@@ -47,7 +47,7 @@ UWM began creating Communities of Practice within the IT Department (and later t
 
 **Web Accessibility Standards CoP:** The Web Accessibility Standards CoP was created to develop and maintain Accessibility standards for the development of all applications, at a company-wide level, where such standards had not previously been in place. The CoP was also responsible for educating other team members on the importance of Accessibility, as well as to perform audits to ensure each application was fully compliant.
 
-### Advanced Training -
+### Advanced Training
 
 **2020 EMERGE Leadership Development Program:** Selected by Senior Leadership at UWM to participate in UWM's All-Company Leadership Develompent Program. The program consisted of 10, 2-hour long weekly sessions, where a small group of selected participants from throughout the company were presonally taught and mentored by Senior Leadership, and the Leadership Development Team at UWM.
 
