@@ -24,18 +24,34 @@ Primary Fontend Developer for the eCommerce team. Using Salesforce Commerce Clou
 ## [United Wholesale Mortgage](http://www.uwm.com/) ([$UWMC](https://www.marketwatch.com/investing/stock/uwmc))
 ##### 2018 - 2020
 
-UI Developer, dedicated to the Salesforce team, implementing custom Salesforce solutions.
+Sole Frontend Developer, dedicated to the Salesforce team, implementing custom Salesforce solutions in Service Cloud, Community Cloud, and Marketing Cloud. Our applications were broker-facing and served more than 60,000 mortgage brokers, nationwide.
 
 ### Projects -
 
-### **[United Wholesale Mortgage | Brand360 - Client Connect](https://www.uwm.com/grow-your-business/client-connect)**
+### **[Brand360 - Client Connect](https://www.uwm.com/grow-your-business/client-connect)**
 Salesforce UI Developer for this project.
 
-### **[United Whoelsale Mortgage | Client Request](https://www.uwm.com/price-a-loan/exclusives-in/client-request-in)**
+### **[Client Request](https://www.uwm.com/price-a-loan/exclusives-in/client-request-in)**
 Primary Salesforce UI Developer for this project.
 
-### **[United Wholesale Mortgage | Success Track Registration](https://ask.uwm.com/s/success-track)**
+### **[Success Track Registration](https://ask.uwm.com/s/success-track)**
 Primary Salesforce UI Developer for this project.
+
+### Initiatives -
+
+### **Communities of Practice**
+
+UWM began creating Communities of Practice within the IT Department (and later through the company), near the end of 2019, at the behest of a group of IT team members who believed organized Communities of Practice could improve the company. I personally founded and spearheaded two such Communities of Practice -
+
+**UI Development CoP:** The UI Development CoP was created to allow our UI Team (Frontend Developers) to more easily come together to create standards around expectations and best practices, as well as career advancement, and a uniformed interview process. The CoP also included involvment from various other members of the IT Department, including .NET/C# (Backend) Developers, QAs, BAs, and Product Owners, as well as Mid- and Senior-level Leadership.
+
+**Web Accessibility Standards CoP:** The Web Accessibility Standards CoP was created to develop and maintain Accessibility standards for the development of all applications, at a company-wide level, where such standards had not previously been in place. The CoP was also responsible for educating other team members on the importance of Accessibility, as well as to perform audits to ensure each application was fully compliant.
+
+### Advanced Training -
+
+**2020 EMERGE Leadership Development Program:** Selected by Senior Leadership at UWM to participate in UWM's All-Company Leadership Develompent Program. The program consisted of 10, 2-hour long weekly sessions, where a small group of selected participants from throughout the company were presonally taught and mentored by Senior Leadership, and the Leadership Development Team at UWM.
+
+**2019 ABILITIES IT Leadership Development Program:** Selected by Senior Leadership at UWM to participate in UWM's IT Leadership Development Program. The program consisted of 10, 2-hour long weekly sessions, where a small group of selected participants from the UWM IT Department were personally taught and mentored by Senior Leadership both within the IT Department, and other Departments, and by the Leadership Development Team at UWM.
 
 ---
 
