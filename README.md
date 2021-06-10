@@ -28,7 +28,7 @@ Sole Frontend Developer, dedicated to the Salesforce team, implementing custom S
 
 ### Projects -
 
-### **[Brand360](https://www.uwm.com/grow-your-business) | [Client Connect](https://www.uwm.com/grow-your-business/client-connect)**
+### **[Brand360](https://www.uwm.com/grow-your-business/more-marketing-tools) | [Client Connect](https://www.uwm.com/grow-your-business/client-connect)**
 Salesforce UI Developer for this project.
 
 ### **[Client Request](https://www.uwm.com/price-a-loan/exclusives-in/client-request-in)**
